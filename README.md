@@ -1,6 +1,6 @@
 # Axonix AI 🧠📈
 
-Axonix AI is a high-performance backend built in Rust to provide AI-driven transaction speed.  
+Axonix AI is a high-performance backend built in Rust to provide AI-driven trading signals.  
 It powers browser extensions and other clients with real-time market insights.
 
 ## 🚀 Features
